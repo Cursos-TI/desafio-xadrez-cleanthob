@@ -36,4 +36,6 @@ int main() {
       printf("\nMovendo cavalo 1 casa para a direita\n");
     printf("\nCasa %d -> Direita\n", movimento_completo + 1);
   }
+
+  return 0;
 }
